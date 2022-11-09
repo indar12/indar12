@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 💬 Ask me about **java, c, javascript**
+- 💬 Ask me about **Java, C, Javascript, NodeJS**
 
 - 📫 How to reach me **indrajithmohanasundaram@gmail.com**
 
