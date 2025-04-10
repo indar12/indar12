@@ -1,12 +1,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Indrajith M</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indar12&label=Profile%20views&color=0e75b6&style=flat" alt="indar12" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **Stencil JS**
 
-- 💬 Ask me about **Java, C, Javascript, NodeJS**
+- 💬 Ask me about **C, Javascript, ReactJS, PolymerJS, NodeJS**
 
 - 📫 How to reach me **indrajithmohanasundaram@gmail.com**
 
